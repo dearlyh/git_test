@@ -1,4 +1,6 @@
 hello, git!
 Let's update!
 I want to be a best programmer. 
+It's strange.
+I cann't understand.
 Let's update, again!
