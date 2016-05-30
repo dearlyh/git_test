@@ -1,4 +1,6 @@
 hello, git!
 Let's update!
 I want to be a best programmer. 
+Hi, Master World!
+It's differenct from book.
 Let's update, again!
